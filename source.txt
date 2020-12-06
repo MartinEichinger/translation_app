@@ -1,0 +1,4 @@
+Hallo, mein Name ist Martin und ich bin Elektrotechnikingenieur.
+Ich bin begeistert von meiner neuen Passion dem entwickeln von Webapplikationen im speziellen den Frontends.
+Ich bin neugierig wie hier auf Topcoder mein erster Beitrag funktioniert.
+Tschüss und bis bald.

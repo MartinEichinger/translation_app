@@ -1,0 +1,4 @@
+Hello, my name is Martin and I am an electrical engineer.
+I am enthusiastic about my new passion for developing web applications, especially frontends.
+I'm curious how my first post works here on Topcoder.
+Bye and see you soon.
